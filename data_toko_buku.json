@@ -1,17 +1,17 @@
 {
-    "nama_toko": "Toko Buku ABC",
-    "pengarang": "John Doe",
-    "alamat": "Jl. Contoh No. 123",
+    "nama_toko": "Toko Buku Gramedia",
+    "pengarang": "Arif Sobriyanto",
+    "alamat": "Sukapura, 144A",
     "koleksi_buku": [
       {
-        "judul": "Buku Pertama",
-        "pengarang": "Jane Doe",
-        "tahun_terbit": 2022
+        "judul": "Kisah Hidupku",
+        "pengarang": "Abdul Kim",
+        "tahun_terbit": 2026
       },
       {
-        "judul": "Buku Kedua",
-        "pengarang": "John Smith",
-        "tahun_terbit": 2020
+        "judul": "Patriot Merah",
+        "pengarang": "Jonny Boku",
+        "tahun_terbit": 2015
       }
     ]
   }
